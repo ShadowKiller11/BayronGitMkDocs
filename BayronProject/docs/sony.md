@@ -1,5 +1,5 @@
 # SONY PLAYSTATION
 
-# PlayStation 1
+# Play Station 1
 
 ![psclassic](img/psclassic.jpg)

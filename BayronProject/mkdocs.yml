@@ -6,3 +6,5 @@ nav:
     - Nintendo: nintendo.md
     - Microsoft: microsoft.md
 theme: readthedocs
+markdown_extensions:
+    - attr_list
