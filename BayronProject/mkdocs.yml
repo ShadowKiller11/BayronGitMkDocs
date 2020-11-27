@@ -1,5 +1,8 @@
 site_name: Project-Bayron
 nav:
     - Home: index.md
-    - About: about.md
+    - Consolas: consolas.md
+    - Sony: sony.md
+    - Nintendo: nintendo.md
+    - Microsoft: microsoft.md
 theme: readthedocs
