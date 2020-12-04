@@ -1,5 +1,5 @@
 # HISTORIA
-***
+<hr>
 
 Una videoconsola o consola de videojuegos es un sistema electrónico de entretenimiento para el hogar que ejecuta videojuegos contenidos en cartuchos, discos ópticos, discos magnéticos, tarjetas de memoria o cualquier dispositivo de almacenamiento.
 
